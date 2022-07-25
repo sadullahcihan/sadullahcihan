@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadullahcihan
 - 👀 I’m interested in Sofware Engineering.
-- 🌱 I’m currently learning MVC.
+- 🌱 I’m currently learning MVC and Entity Framework
 - 📫 How to reach me https://www.linkedin.com/in/sadullah-cihan-41a682169/
 
 <!---
